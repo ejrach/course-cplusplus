@@ -16,8 +16,7 @@ class Person {
 private:
     string name;
     int age;
-    
-    
+
 public:
     Person();
     Person(string newName){name = newName; age = 0;};

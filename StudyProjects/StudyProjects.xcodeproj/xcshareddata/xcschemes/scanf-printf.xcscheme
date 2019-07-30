@@ -47,7 +47,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/eric/Projects/GitHub/course-cplusplus/StudyProjects/scanf-printf"
+      customWorkingDirectory = "/Users/eric/Projects/GitHub/course-cplusplus/StudyProjects/input-from-file"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"

@@ -87,7 +87,7 @@
 			children = (
 				07AFECAA22DF852500371D09 /* StudyProjects */,
 				07AFECB722DF857E00371D09 /* area-rectangle-using-classes */,
-				07AFECC622DF90E900371D09 /* scanf-printf */,
+				07AFECC622DF90E900371D09 /* input-from-file */,
 				07AFECA922DF852500371D09 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -121,14 +121,14 @@
 			path = "area-rectangle-using-classes";
 			sourceTree = "<group>";
 		};
-		07AFECC622DF90E900371D09 /* scanf-printf */ = {
+		07AFECC622DF90E900371D09 /* input-from-file */ = {
 			isa = PBXGroup;
 			children = (
 				07AFECC722DF90E900371D09 /* main.cpp */,
 				07AFECCC22DF917C00371D09 /* input-oneline.txt */,
 				07AFECCD22DF918D00371D09 /* input-multiplelines.txt */,
 			);
-			path = "scanf-printf";
+			path = "input-from-file";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
